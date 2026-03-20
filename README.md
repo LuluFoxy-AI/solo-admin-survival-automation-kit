@@ -1,0 +1,1 @@
+# Solo Admin Survival Automation Kit
